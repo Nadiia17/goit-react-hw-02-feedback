@@ -84,7 +84,7 @@ export class App extends React.Component {
               positivePercentage={positivePercentage}
             />
           ) : (
-            <Notification message="There is no feedbackю..." />
+            <Notification message="There is no feedback..." />
           )}
         </Section>
       </div>
